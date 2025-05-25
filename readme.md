@@ -129,4 +129,4 @@ We create a *collaborative, transparent, and faster diagnostic ecosystem* — fa
 ---
 
 > “Bridging the diagnostic divide — from metro labs to village clinics.”
-# readm
+# readme

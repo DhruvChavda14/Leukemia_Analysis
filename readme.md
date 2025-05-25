@@ -1,4 +1,4 @@
-#  Explainable AI Leukemia Detection in Rural India
+#  XAI-Powered Leukemia Detection
 
 ##  Mission
 

@@ -1,0 +1,82 @@
+# Python bytecode
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# Flask specific
+instance/
+*.db
+*.sqlite3
+
+# Logs and debug files
+*.log
+*.out
+*.err
+logs/
+debug.log
+
+# Environment variables
+.env
+.env.*
+*.env
+
+# Pytest
+.cache/
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE-specific files
+.vscode/
+.idea/
+*.iml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Static and media files
+static/heatmaps/
+uploads/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Pipenv
+Pipfile
+Pipfile.lock
+
+# Coverage reports
+htmlcov/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre
+.pyre/
+
+# Temporary files
+*.swp
+*.swo
+*.tmp
+*.bak

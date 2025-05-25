@@ -1,0 +1,10 @@
+flask
+flask-cors
+pillow
+numpy
+matplotlib
+opencv-python
+tensorflow
+tf-keras-vis
+cloudinary
+dotenv
